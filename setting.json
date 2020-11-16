@@ -1,1 +1,13 @@
-
+{
+    "settings":{
+        "ratepKM":4.25,
+        "expense_type": -2,
+        "mode_of_travel": 1
+    },
+    "default":{
+        "ratepKM":4.25,
+        "expense_type": -2,
+        "mode_of_travel": 1
+    },
+    "total_KM": 11000
+}
